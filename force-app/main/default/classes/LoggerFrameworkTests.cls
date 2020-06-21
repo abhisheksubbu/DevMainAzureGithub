@@ -12,7 +12,7 @@ private class LoggerFrameworkTests
     */
     @IsTest
     static void DIContainer_GetServiceRegistration_Test()
-    
+    {
         boolean hasConfigurations = true;
         try 
         {
