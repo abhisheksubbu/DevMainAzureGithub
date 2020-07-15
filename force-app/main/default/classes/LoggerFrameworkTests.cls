@@ -5,7 +5,7 @@
 */
 @IsTest
 private class LoggerFrameworkTests 
-{
+
     /**
     * @description Test ensures that the Custom Metadata has been populated with Service Registration record
     * @return none
